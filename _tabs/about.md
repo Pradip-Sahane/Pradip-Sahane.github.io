@@ -1,12 +1,27 @@
-# About Me
+---
+title: About
+icon: fas fa-info-circle
+order: 4
+---
 
-Hi, I'm **Pradip Sahane** — Senior Manager R&D in Medical Robotics & Industrial Automation.
+# Hi, I'm Pradip Sahane 👋
 
-Core R&D contributor to India's first orthopedic surgical robot — Misso.
-6+ years experience in Robotics, AI/ML, and Medical Devices.
+**Senior Manager – R&D | Medical Robotics & Industrial Automation**
 
-📄 [Download My Resume](/assets/resume.pdf)
+Core R&D contributor to India's first orthopedic surgical robot — Misso System — with 1000+ successful live cases.
 
-📧 pradip.sahane@email.com  
-📞 +91-9209909692  
-🔗 [LinkedIn](https://linkedin.com/in/pradeep-sahane-16b9b4137)
+8+ years experience in Robotics, AI/ML, and Medical Devices.
+
+---
+
+## 📄 Resume
+
+[Download My Resume](/assets/resume.pdf)
+
+---
+
+## 📬 Contact
+
+- 📧 pradip.sahane@email.com
+- 📞 +91-9209909692
+- 🔗 [LinkedIn](https://linkedin.com/in/pradeep-sahane-16b9b4137)
