@@ -3,7 +3,7 @@
 Hi, I'm **Pradip Sahane** — Senior Manager R&D in Medical Robotics & Industrial Automation.
 
 Core R&D contributor to India's first orthopedic surgical robot — Misso.
-8+ years experience in Robotics, AI/ML, and Medical Devices.
+6+ years experience in Robotics, AI/ML, and Medical Devices.
 
 📄 [Download My Resume](/assets/resume.pdf)
 
