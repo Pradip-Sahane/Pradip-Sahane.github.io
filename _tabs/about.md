@@ -1,8 +1,12 @@
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
+# About Me
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hi, I'm **Pradip Sahane** — Senior Manager R&D in Medical Robotics & Industrial Automation.
+
+Core R&D contributor to India's first orthopedic surgical robot — Misso.
+8+ years experience in Robotics, AI/ML, and Medical Devices.
+
+📄 [Download My Resume](/assets/resume.pdf)
+
+📧 pradip.sahane@email.com  
+📞 +91-9209909692  
+🔗 [LinkedIn](https://linkedin.com/in/pradeep-sahane-16b9b4137)
